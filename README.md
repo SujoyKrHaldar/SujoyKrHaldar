@@ -1,6 +1,6 @@
 ### Hi there 👋 This is Sujoy
     Artist, Designer and Developer
-I am a undergraduate student in final year pursuing B-Tech in CSE. 
+
 
 
 
