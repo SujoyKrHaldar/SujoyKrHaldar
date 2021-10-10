@@ -1,4 +1,4 @@
-### Hi there 👋 This is Sujoy
+### Hi there 👋
     Artist, Designer and Developer
 
 
