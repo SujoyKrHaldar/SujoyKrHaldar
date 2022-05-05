@@ -1,14 +1,16 @@
-Hi 👋 My name is sujoy kumar haldar
-===================================
+👋 Hello and welcome all
 
-Art design development
-----------------------
+My name is Sujoy Kumar Haldar
+=============================
 
-* 🌍  I'm based in India
-* 🖥️  See my portfolio at [here.](http://isujoy.vercel.app)
-* ✉️  You can contact me at [sujoykrhaldar@gmail.com](mailto:sujoykrhaldar@gmail.com)
-* 🚀  I'm currently working on [Capgemini](http://capgemini.com)
-* ⚡  I love to create protraits on paper.
+As a small introduction, I am a Self learned Frontend developer, UI designer and an artist also.
+Currently I am growing interest in Fullstack field and 3d Modeling.
+
+ 🌍  I'm based in India
+ 🖥️  Check out my [portfolio.](http://isujoy.vercel.app)
+ ✉️  Contact me [sujoykrhaldar@gmail.com](mailto:sujoykrhaldar@gmail.com)
+ 🚀  I'm currently working on [Capgemini](http://capgemini.com) as an Analyst.
+ ⚡  And as a hobby, I love to create human protraits on paper.
 
 ### Skills
 
