@@ -2,6 +2,8 @@
 
 # My name is Sujoy Kumar Haldar
 
+#### Art / Design / Development
+
 As a small introduction, 
 I am a Self learned Frontend developer, UI designer and an artist also.
 Completed my Btech in Computer science from Kalyani Government Engineering College on 2021. 
@@ -42,7 +44,6 @@ Love to play PC games, Marvel & DC fan at the same time.
 <p align="left"> <a href="https://www.facebook.com/profile.php?id=100007678097852" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/SujoyKrHaldar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/sujoykhaldar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sujoy-kumar-haldar-31713b1a4" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 
-#### Art / Design / Development
 
 
 
