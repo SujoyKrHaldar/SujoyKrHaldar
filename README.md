@@ -14,9 +14,10 @@ Currently I am growing interest in Fullstack field and 3d Modeling.
 Love to play PC games, Marvel & DC fan at the same time.
 
 
+
 * 🌍  I'm based in India, Kolkata.
 * 🚀  Currently working as an Analyst in [Capgemini](http://capgemini.com).
-* 🖥️  Check out my [portfolio.](http://isujoy.vercel.app) (Currently under development ...).
+* 🖥️  Check out my [portfolio.](https://sujoykh.vercel.app/) (Currently under development ...).
 * ✉️  Contact me [sujoykrhaldar@gmail.com](mailto:sujoykrhaldar@gmail.com) (For any freelancing on website UI design and development).
 * ⚡  And as a hobby, I love to create human protraits on paper (All commisions are welcome).
 
