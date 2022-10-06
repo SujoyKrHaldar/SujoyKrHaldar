@@ -15,11 +15,11 @@ Love to play PC games, Marvel & DC fan at the same time.
 
 
 
-* 🌍  I'm based in India, Kolkata.
+* 🌍  I'm based in Kolkata, India.
 * 🚀  Currently working as an Analyst in [Capgemini](http://capgemini.com).
-* 🖥️  Check out my [portfolio.](https://sujoykh.vercel.app/) (Currently under development ...).
+* 🖥️  Check out my [portfolio.](https://sujoykh.vercel.app/).
 * ✉️  Contact me [sujoykrhaldar@gmail.com](mailto:sujoykrhaldar@gmail.com) (For any freelancing on website UI design and development).
-* ⚡  And as a hobby, I love to create human protraits on paper (All commisions are welcome).
+* ⚡  And as a hobby, I love to create human protraits on paper.
 
 ### Things I have learned and upgrading as well
 
