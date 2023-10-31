@@ -1,6 +1,6 @@
 #### 👋 Hello and Welcome
 
-# Thi is Sujoy Kumar Haldar
+# This is Sujoy Kumar Haldar
 ## Artist • Gamer • Engineer
 ### Frontend • UI/UX
 
