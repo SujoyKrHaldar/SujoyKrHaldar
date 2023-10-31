@@ -1,26 +1,15 @@
-#### 👋 Hello and welcome all
+#### 👋 Hello and Welcome
 
-# My name is Sujoy Kumar Haldar
+# Thi is Sujoy Kumar Haldar
+## Artist • Gamer • Engineer
+### Frontend • UI/UX
 
+* 🌍  I'm from in India.
+* 🖥️  Check out my [Portfolio.](https://sujoykh.vercel.app/)
+* 🎮  Gaming Channel [@SujoysgamingTV.](https://www.youtube.com/@SujoysgamingTV)
+* ✉️  Contact me [sujoykrhaldar@gmail.com](mailto:sujoykrhaldar@gmail.com)
 
-
-As a small introduction, 
-I am a Self learned Frontend developer, UI designer and an artist also.
-Completed my Btech in Computer science from Kalyani Government Engineering College on 2021. 
-From college days I was very passinate about web designing development. 
-Start learning some Designing principles, launguages and frameworks as well. 
-Also learned some backend techs as well. I am also done some freelancing also in this field. 
-Currently I am growing interest in Fullstack field and 3d Modeling. 
-Love to play PC games, Marvel & DC fan at the same time.
-
-
-
-* 🌍  I'm based in Kolkata, India.
-* 🖥️  Check out my [portfolio.](https://sujoykh.vercel.app/).
-* ✉️  Contact me [sujoykrhaldar@gmail.com](mailto:sujoykrhaldar@gmail.com) (For any freelancing on website UI design and development).
-* ⚡  And as a hobby, I love to create human protraits on paper.
-
-### Things I have learned and upgrading as well -
+### Tech Skills -
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
@@ -42,10 +31,6 @@ Love to play PC games, Marvel & DC fan at the same time.
 ### Follow me on socials -
 
 <p align="left"> <a href="https://www.facebook.com/profile.php?id=100007678097852" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/SujoyKrHaldar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/sujoykhaldar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sujoy-kumar-haldar-31713b1a4" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-
-#### Art / Design / Development
-
 
 
 <!--
