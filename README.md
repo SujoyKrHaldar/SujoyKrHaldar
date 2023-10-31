@@ -7,7 +7,7 @@
 * 🌍  I'm from in India.
 * 🖥️  Check out my [Portfolio.](https://sujoykh.vercel.app/)
 * 🎮  Gaming Channel [@SujoysgamingTV.](https://www.youtube.com/@SujoysgamingTV)
-* ✉️  Contact me [sujoykrhaldar@gmail.com](mailto:sujoykrhaldar@gmail.com)
+* ✉️  Contact me [here](mailto:sujoykrhaldar@gmail.com)
 
 ### Tech Skills -
 
