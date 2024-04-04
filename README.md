@@ -1,16 +1,19 @@
 
 # 👋 Hello and Welcome
 
-I am **Sujoy Kr Haldar**.
+### I am **Sujoy Kr Haldar**. 
 I have been passionate about **UI/UX design** & **Full-stack Development**.\
 I like to spend my leisure time **sketching realistic Portraits**.
 
-Checkout: 
+#### Checkout :
 -  Portfolio: https://sujoykh.vercel.app
+-  Sketches: https://sujoykh.vercel.app/art
 -  Github: https://github.com/SujoyKrHaldar
 -  Dribble: https://dribbble.com/SujoyKrHaldar
 -  Twitter: https://twitter.com/SujoyKrHaldar
--  Sketches: https://sujoykh.vercel.app/art
+-  Instagrm: http://www.instagram.com/sujoykhaldar
+-  Linkedin: https://www.linkedin.com/in/sujoykrhaldar
+-  Facebook: https://www.facebook.com/profile.php?id=100007678097852
 
 ### Tech Skills -
 
@@ -31,9 +34,7 @@ Checkout:
 </p>
 
 
-### Follow me on socials -
 
-<p align="left"> <a href="https://www.facebook.com/profile.php?id=100007678097852" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/SujoyKrHaldar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/sujoykhaldar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sujoy-kumar-haldar-31713b1a4" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 
 <!--
@@ -49,4 +50,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+### Follow me on socials -
+
+<p align="left"> <a href="https://www.facebook.com/profile.php?id=100007678097852" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/SujoyKrHaldar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/sujoykhaldar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sujoy-kumar-haldar-31713b1a4" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 -->
