@@ -1,7 +1,8 @@
 
 # 👋 Hello and Welcome
 
-I am **Sujoy Kr Haldar**.\ I have been passionate about **UI/UX design** & **Full-stack Development**.\
+I am **Sujoy Kr Haldar**.
+I have been passionate about **UI/UX design** & **Full-stack Development**.\
 I like to spend my leisure time **sketching realistic Portraits**.
 
 Checkout: 
