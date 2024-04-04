@@ -1,14 +1,15 @@
 
 #### 👋 Hello and Welcome
 
-# This is Sujoy Kumar Haldar
-## Artist • Gamer • Engineer
-### Frontend • UI/UX
+I am **Sujoy Kr Haldar**. I have been passionate about **UI/UX design** & **Full-stack Development**. 
+I like to spend my leisure time **sketching realistic Portraits**.
 
-* 🌍  I'm from in India.
-* 🖥️  Check out my [Portfolio.](https://sujoykh.vercel.app/)
-* 🎮  Gaming Channel [@SujoysgamingTV.](https://www.youtube.com/@SujoysgamingTV)
-* ✉️  Contact me [here](mailto:sujoykrhaldar@gmail.com)
+Checkout: 
+• Portfolio: https://sujoykh.vercel.app
+• Github: https://github.com/SujoyKrHaldar
+• Dribble: https://dribbble.com/SujoyKrHaldar
+• Twitter: https://twitter.com/SujoyKrHaldar
+• Sketches: https://sujoykh.vercel.app/art
 
 ### Tech Skills -
 
