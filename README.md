@@ -5,11 +5,11 @@ I am **Sujoy Kr Haldar**. I have been passionate about **UI/UX design** & **Full
 I like to spend my leisure time **sketching realistic Portraits**.
 
 Checkout: 
-- • Portfolio: https://sujoykh.vercel.app
-- • Github: https://github.com/SujoyKrHaldar
-- • Dribble: https://dribbble.com/SujoyKrHaldar
-- • Twitter: https://twitter.com/SujoyKrHaldar
-- • Sketches: https://sujoykh.vercel.app/art
+-  Portfolio: https://sujoykh.vercel.app
+-  Github: https://github.com/SujoyKrHaldar
+-  Dribble: https://dribbble.com/SujoyKrHaldar
+-  Twitter: https://twitter.com/SujoyKrHaldar
+-  Sketches: https://sujoykh.vercel.app/art
 
 ### Tech Skills -
 
