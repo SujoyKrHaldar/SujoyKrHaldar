@@ -5,17 +5,11 @@
 I have been passionate about **UI/UX design** & **Full-stack Development**.\
 I like to spend my leisure time **sketching realistic Portraits**.
 
-#### Checkout :
--  Portfolio: https://sujoykh.vercel.app
--  Sketches: https://sujoykh.vercel.app/art
--  Github: https://github.com/SujoyKrHaldar
--  Dribble: https://dribbble.com/SujoyKrHaldar
--  Twitter: https://twitter.com/SujoyKrHaldar
--  Instagrm: http://www.instagram.com/sujoykhaldar
--  Linkedin: https://www.linkedin.com/in/sujoykrhaldar
--  Facebook: https://www.facebook.com/profile.php?id=100007678097852
+#### Follow me on Socials:
+[Portfolio](https://sujoykh.vercel.app) | [Github](https://github.com/SujoyKrHaldar) | [Dribble](https://dribbble.com/SujoyKrHaldar) | [Twitter](https://twitter.com/SujoyKrHaldar) | [Instagram](http://www.instagram.com/sujoykhaldar) | [LinkedIn](https://www.linkedin.com/in/sujoykrhaldar) | [Facebook](https://www.facebook.com/profile.php?id=100007678097852)
 
-### Tech Skills -
+
+#### Tech Skills:
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
