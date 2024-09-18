@@ -1,3 +1,5 @@
+![Banner](https://media.licdn.com/dms/image/v2/C5616AQFLkqzWCUY4ww/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1640251595986?e=1732147200&v=beta&t=0mPd5iaXujIFhJAggNksoB5EIm_8bhd2b8bWds1Bsjk)
+
 #### Hello and Welcome 👋
 # I’m **Sujoy Kr Haldar** • UI Designer and Fullstack Engineer.
 
