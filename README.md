@@ -1,6 +1,5 @@
 #### 👋 Hello and Welcome
-# I’m **Sujoy Kr Haldar**.
-# UI Designer and Frontend Developer.
+# I’m **Sujoy Kr Haldar**.\ UI Designer and Frontend Developer.
 
 I design and build beautiful websites. I have been passionate about **UI/UX design** & **Full-stack Development**.\
 I like to spend my leisure time **sketching realistic Portraits**.
