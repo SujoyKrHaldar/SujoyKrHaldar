@@ -1,4 +1,4 @@
-![Banner](https://media.licdn.com/dms/image/v2/C5616AQFLkqzWCUY4ww/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1640251595986?e=1732147200&v=beta&t=0mPd5iaXujIFhJAggNksoB5EIm_8bhd2b8bWds1Bsjk)
+![Banner](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExczJmN29sNDN3MXBlaXJseTgwd3dyYzF2a3AycGprN3FoYjl1OTMxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1kJxyyCq9ZHXX0GM3a/giphy.webp)
 
 #### Hello and Welcome 👋
 # I’m **Sujoy Kr Haldar**
