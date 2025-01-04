@@ -3,8 +3,7 @@
 #### Hello and Welcome 👋
 # I’m **Sujoy Kr Haldar**
 
-I design and build beautiful websites. I have been passionate about **UI/UX design** & **Full-stack Development**.\
-I like to spend my leisure time **sketching realistic Portraits**.
+I am an Artist, Gamer, UI/UX Designer & Full-stack engineer.
 
 #### Follow me on Socials:
 [Portfolio](https://sujoykh.vercel.app) | [Github](https://github.com/SujoyKrHaldar) | [Dribble](https://dribbble.com/SujoyKrHaldar) | [Twitter](https://twitter.com/SujoyKrHaldar) | [Instagram](http://www.instagram.com/sujoykhaldar) | [LinkedIn](https://www.linkedin.com/in/sujoykrhaldar) | [Facebook](https://www.facebook.com/profile.php?id=100007678097852)
